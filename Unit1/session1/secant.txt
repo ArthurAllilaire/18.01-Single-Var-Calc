@@ -1,0 +1,25 @@
+1.
+    a) -0.5: 0.53, -0.25: 0.16, 0: Undefined, 0.25: -0.41, 0.5: -0.59
+
+    b) Tangent slope = -0.16
+
+    c) 0.01: -0.17
+
+2.
+    a) -0.5: 0.88, -0.25: -0.97, 0: Undefined, 0.25: -0.97, 0.5: -0.88
+
+    b) Tangent slope = -1.00
+
+    c) 0.01: -1.00
+
+3.
+    a) -0.5: -0.59, -0.25: -0.41, 0: Undefined, 0.25: 0.16, 0.5: -0.53
+
+    b) Tangent slope = -0.16
+
+    c) 0.01: -0.15
+
+4. 
+    a) Yes, the closer you are to X0 then the more accurate the tangent. It also matters whether you are going to the right (0.01) or to the left (-0.01), if the change in gradient is greater between the right and X0 than the left and X0 then the secant's gradient would be further from the actual tangent gradient.
+
+    b) The quicker the gradient changes for a line the smaller the delta X value must be to have an accurate calculation of the slope of the tangent line. So a curvier line will need a smaller delta x than a straighter line.
